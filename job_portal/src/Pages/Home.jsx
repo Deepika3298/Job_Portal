@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import Banner from "../components/Banner";
 import Card from "../components/Card";
-import Job from "./Job";
 import Sidebar from "../sidebar/Sidebar";
 
 
